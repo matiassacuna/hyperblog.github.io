@@ -3,3 +3,5 @@ Esta es la historia de matias acuna
 matias acuna tiene 23 anos y nacio en chile
 
 Manana nos enfocaremos en su vida laboral.
+
+Hoy seguira aprendiendo git.
