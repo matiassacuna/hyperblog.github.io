@@ -8,3 +8,11 @@ Hoy hablaremos de su historia.
 En camara parece alto, pero la verdad no es tan alto.
 
 Hoy se quiere convertir en data science.
+
+Esto es una prueba para git.
+
+El siguiete dia debo estudiar opti, finanzas y circuitos.
+
+Otro parrafo de practica para git.
+
+Otra shit de practica.
