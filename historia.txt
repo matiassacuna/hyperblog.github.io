@@ -4,4 +4,6 @@ matias acuna tiene 23 anos y nacio en chile
 
 Manana nos enfocaremos en su vida laboral.
 
+Master 1
+
 Hoy seguira aprendiendo git.
